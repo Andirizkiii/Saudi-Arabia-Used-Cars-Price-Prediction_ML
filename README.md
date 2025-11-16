@@ -27,7 +27,6 @@ The goal is to help sellers price cars fairly, assist buyers in decision-making,
 ### 5. Feature Importance (Top 15)
 ![Feature Importance](assets/feature_importance.png)
 
-(*Tambahkan gambar-gambar ini ke folder `/assets` di GitHub repo Anda.*)
 
 ---
 
@@ -185,5 +184,5 @@ Gunakan analisa harga per brand & region untuk strategi promosi.
 
 ## 👤 Author
 **Andi Rizki Nofentri**  
-Data Analyst & Machine Learning Practitioner  
+Student of Bootcamp Data Analyst & Machine Learning   
 Capstone Project – Machine Learning Module 3  
